@@ -4,3 +4,4 @@ can_eat_grass = []
 can_eat_grass = vegetarians_group
 can_eat_grass.extend(omnivores_group)
 print(can_eat_grass)
+
